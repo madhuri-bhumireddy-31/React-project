@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Flat 50% Off on First Order",
+    "description": "Valid for new users only. No code needed.",
+    "discount": 50,
+    "image": "https://ts2.mm.bing.net/th?id=OIP.wqwM_LlUTGgykOXap0GezQHaHW&pid=15.1"
+  },
+  {
+    "title": "Combo Meals Starting ₹99",
+    "description": "Delicious meals at budget prices!",
+    "discount": 30,
+    "image": "https://i.pinimg.com/originals/16/ed/7f/16ed7f6b3d6ad709a73a8d8ff5d8a50a.jpg"
+  },
+  {
+    "title": "Weekend Special: 1+1 Free Pizza",
+    "description": "Order one pizza and get another free. Sat-Sun only!",
+    "discount": 50,
+    "image": "https://th.bing.com/th/id/OIP.CPMqT2tSb6c_35bWxgWmRgHaEh?w=299&h=183&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+  }
+]
